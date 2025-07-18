@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LMS: Attendance Sidebar
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.0.1
 // @description  Add attendance sidebar.
 // @author       TK230158
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=lms-tokyo.iput.ac.jp
