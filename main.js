@@ -15,7 +15,7 @@
 
     // Add global styles
     function addGlobalStyles() {
-        const style = document.createElement('style');
+        const style = document.createElement("style");
         style.textContent = `
             .custom-attendance-icon-link {
                 display: flex; align-items: center; justify-content: center;
