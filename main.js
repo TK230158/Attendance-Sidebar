@@ -135,7 +135,7 @@
     const slidePanel = document.createElement("div");
     slidePanel.id = "attendance-slide-panel";
     slidePanel.style = `
-        position: fixed; top: 0; right: -400px; width: 400px; height: 100%;
+        position: fixed; top: 0; right: -30vw; width: 30vw; height: 100%;
         border-left: 1px solid #ccc; box-shadow: -2px 0 8px rgba(0,0,0,0.1);
         z-index: 10000; overflow-y: auto; transition: right 0.3s ease;
         display: flex; flex-direction: column;
